@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&display=swap');
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body { 
+  background-color: powderpurple; 
+  font-size: 30px;
+  text-align: center;
+  font-family: 'DM Sans', sans-serif;
+}
+#button {
+  width: 200px;
+  height: 200px;
+  background-color: #36c4ce;
+  border-radius: 100px;
+  margin: 0 auto;
+  line-height: 200px;
+  user-select: none;
+  margin-top: 100px;
+}
+#score {
+  margin-top: 25%;
+  font-size: 60px;
+  font-weight: bold;
+  color: #0d5957;
+}
